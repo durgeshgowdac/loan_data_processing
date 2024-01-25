@@ -1,0 +1,616 @@
+UID,Marital_status,Dependents,Is_graduate,Income,Loan_amount,Term_months,Credit_score,approval_status,Age,Sex,Purpose,Hobby
+LP001002,NO,0,Graduate,45848,,360.0,1.0,0,40.0,Male,Education,Reading
+LP001002,NO,0,Graduate,45848,,360.0,1.0,0,40.0,Male,Education,Reading
+LP001003,YES,1,Graduate,15325,128.0,360.0,1.0,1,22.0,Male,Education,Reading
+LP001005,YES,0,Graduate,29105,66.0,360.0,1.0,0,27.0,Male,Education,Reading
+LP001006,YES,0,Not Graduate,42944,120.0,360.0,1.0,0,36.0,F,Education,Reading
+LP001008,YES,0,Graduate,24536,141.0,360.0,1.0,1,55.0,Male,Education,Reading
+LP001011,YES,2,Graduate,13422,267.0,360.0,1.0,1,45.0,Male,Education,Reading
+LP001013,YES,0,Not Graduate,26502,95.0,360.0,1.0,1,54.0,Male,Education,Reading
+LP001014,YES,3+,Graduate,14262,158.0,360.0,0.0,0,53.0,Male,Education,Reading
+LP001018,YES,2,Graduate,43166,168.0,360.0,1.0,1,50.0,Male,Education,Reading
+LP001020,YES,1,Graduate,48210,349.0,360.0,1.0,1,27.0,Male,Education,Reading
+LP001024,YES,2,Graduate,44904,70.0,360.0,1.0,1,45.0,Male,Education,Reading
+LP001027,YES,2,Graduate,46516,109.0,360.0,1.0,1,32.0,F,Education,Reading
+LP001028,YES,2,Graduate,19429,200.0,360.0,1.0,0,41.0,F,Education,Reading
+LP001029,No,0,Graduate,49964,114.0,360.0,1.0,0,47.0,F,Education,Reading
+LP001030,Yes,2,Graduate,21523,17.0,120.0,1.0,1,40.0,Male,Education,Reading
+LP001032,No,0,Graduate,19086,125.0,360.0,1.0,1,50.0,Male,Education,Reading
+LP001034,No,1,Not Graduate,38459,100.0,240.0,,1,-12.0,Male,Education,Reading
+LP001036,NO,0,Graduate,21164,76.0,360.0,0.0,0,39.0,Female,Education,Reading
+LP001038,NO,0,Not Graduate,17386,133.0,360.0,1.0,0,55.0,Male,Education,Reading
+LP001041,NO,0,Graduate,26409,115.0,,1.0,0,46.0,Male,Education,Reading
+LP001043,NO,0,Not Graduate,30732,104.0,360.0,0.0,0,33.0,Male,Education,Reading
+LP001046,NO,1,Graduate,17527,315.0,360.0,1.0,0,27.0,Male,Education,Reading
+LP001047,NO,0,Not Graduate,46664,116.0,360.0,0.0,1,53.0,Male,Education,Reading
+LP001050,NO,2,Not Graduate,44456,112.0,360.0,0.0,1,26.0,,Education,Reading
+LP001052,NO,1,Graduate,47543,151.0,360.0,,1,39.0,Male,Education,Reading
+LP001066,NO,0,Graduate,32245,191.0,360.0,1.0,0,55.0,Male,Education,Reading
+LP001068,NO,0,Graduate,26231,122.0,360.0,1.0,1,40.0,Male,Education,Reading
+LP001073,NO,2,Not Graduate,25016,110.0,360.0,1.0,1,24.0,Male,Education,Reading
+LP001086,NO,0,Not Graduate,14705,35.0,360.0,1.0,0,38.0,Male,Education,Reading
+LP001087,NO,2,Graduate,49723,120.0,360.0,1.0,1,44.0,Female,Education,Reading
+LP001091,NO,1,Graduate,17889,201.0,360.0,,1,40.0,Male,Education,Reading
+LP001095,NO,0,Graduate,41465,74.0,360.0,1.0,1,44.0,M,Education,Reading
+LP001097,NO,1,Graduate,20140,106.0,360.0,1.0,1,31.0,M,Education,Reading
+LP001098,NO,0,Graduate,45406,114.0,360.0,1.0,0,52.0,Male,Education,Reading
+LP001100,NO,3+,Graduate,42781,320.0,360.0,1.0,0,55.0,Male,Education,Reading
+LP001106,NO,0,Graduate,7330,,360.0,1.0,0,36.0,Male,Education,Reading
+LP001109,NO,0,Graduate,49814,100.0,,0.0,0,32.0,Male,Education,Reading
+LP001112,NO,0,Graduate,5879,144.0,360.0,1.0,0,39.0,Female,Education,Reading
+LP001114,NO,0,Graduate,17527,184.0,360.0,1.0,1,45.0,Male,Education,Reading
+LP001116,NO,0,Not Graduate,19871,110.0,360.0,1.0,1,23.0,M,Education,Reading
+LP001119,NO,0,Graduate,9460,80.0,360.0,1.0,0,43.0,Male,Education,Reading
+LP001120,NO,0,Graduate,44192,47.0,360.0,1.0,0,46.0,Male,Education,Reading
+LP001123,NO,0,Graduate,12346,75.0,360.0,,0,24.0,Male,Education,Reading
+LP001131,NO,0,Graduate,31640,134.0,360.0,1.0,1,53.0,Male,Education,Reading
+LP001136,NO,0,Not Graduate,29286,96.0,,1.0,0,44.0,Male,Education,Reading
+LP001137,NO,0,Graduate,9005,88.0,,1.0,1,48.0,Female,Education,Reading
+LP001138,NO,1,Graduate,29125,44.0,360.0,1.0,1,50.0,M,Education,Reading
+LP001144,NO,0,Graduate,8189,144.0,360.0,1.0,0,31.0,Male,Education,Reading
+LP001146,NO,0,Graduate,27681,120.0,360.0,0.0,1,52.0,Female,Education,Reading
+LP001151,NO,0,Graduate,33544,144.0,360.0,1.0,0,24.0,Female,Education,Reading
+LP001155,NO,0,Not Graduate,29184,100.0,360.0,1.0,1,51.0,Female,Education,Reading
+LP001157,NO,0,Graduate,17678,120.0,360.0,1.0,0,51.0,Female,Education,Reading
+LP001164,NO,0,Graduate,8707,112.0,360.0,1.0,0,54.0,M,Education,Reading
+LP001179,NO,2,Graduate,20941,134.0,360.0,1.0,0,52.0,Male,Education,Reading
+LP001186,NO,1,Graduate,12765,286.0,360.0,0.0,1,29.0,Female,Education,Reading
+LP001194,NO,2,Graduate,5035,97.0,360.0,1.0,1,48.0,Male,Education,Reading
+LP001195,NO,0,Graduate,6401,96.0,360.0,1.0,0,31.0,Male,Education,Reading
+LP001197,NO,0,Graduate,6850,135.0,360.0,1.0,1,45.0,Male,Education,Reading
+LP001198,NO,1,Graduate,38512,180.0,360.0,1.0,0,53.0,Male,Education,Reading
+LP001199,NO,2,Not Graduate,40246,144.0,360.0,1.0,0,32.0,M,Education,Reading
+LP001205,NO,0,Graduate,36011,120.0,360.0,1.0,0,41.0,Male,Education,Reading
+LP001206,NO,3+,Graduate,12678,99.0,360.0,1.0,0,33.0,Male,Education,Reading
+LP001207,NO,0,Not Graduate,34556,165.0,180.0,0.0,0,44.0,Male,Education,Reading
+LP001213,NO,1,Graduate,27320,,360.0,0.0,0,29.0,Male,Education,Reading
+LP001222,NO,0,Graduate,33269,116.0,360.0,0.0,0,54.0,Female,Education,Reading
+LP001225,NO,0,Graduate,7880,258.0,360.0,1.0,1,32.0,M,Education,Reading
+LP001228,NO,0,Not Graduate,8191,126.0,180.0,0.0,0,23.0,Male,Education,Reading
+LP001233,NO,1,Graduate,20575,312.0,360.0,1.0,0,43.0,Male,Education,Reading
+LP001238,NO,3+,Not Graduate,24250,125.0,60.0,1.0,0,27.0,Male,Education,Reading
+LP001241,NO,0,Graduate,6532,136.0,360.0,0.0,1,52.0,Female,Education,Reading
+LP001243,NO,0,Graduate,44619,172.0,360.0,1.0,1,55.0,Male,Education,Reading
+LP001245,NO,2,Not Graduate,31237,97.0,360.0,1.0,1,22.0,Male,Education,Reading
+LP001248,NO,0,Graduate,9074,81.0,300.0,1.0,1,29.0,Male,Education,Reading
+LP001250,NO,3+,Not Graduate,43287,95.0,,0.0,0,28.0,M,Education,Reading
+LP001253,NO,3+,Graduate,17456,187.0,360.0,1.0,1,23.0,Male,Education,Reading
+LP001255,NO,0,Graduate,32600,113.0,480.0,1.0,1,42.0,Male,Education,Reading
+LP001256,NO,0,Graduate,29893,176.0,360.0,1.0,0,48.0,Male,Education,Reading
+LP001259,NO,1,Graduate,17595,110.0,360.0,1.0,0,39.0,Male,Education,Reading
+LP001263,NO,3+,Graduate,17684,180.0,300.0,0.0,0,53.0,Male,Education,Reading
+LP001264,NO,3+,Not Graduate,22405,130.0,360.0,,0,55.0,M,Education,Reading
+LP001265,NO,0,Graduate,7218,111.0,360.0,1.0,1,21.0,Female,Education,Reading
+LP001266,NO,1,Graduate,16104,,360.0,1.0,0,39.0,Male,Education,Reading
+LP001267,NO,2,Graduate,32880,167.0,360.0,1.0,1,27.0,Female,Education,Reading
+LP001273,NO,0,Graduate,16188,265.0,360.0,,1,47.0,Male,Education,Reading
+LP001275,Yes,1,Graduate,15808,50.0,240.0,1.0,1,37.0,Female,Education,Reading
+LP001279,No,0,Graduate,6050,136.0,360.0,1.0,1,33.0,F,Education,Reading
+LP001280,Yes,2,Not Graduate,42314,99.0,360.0,,1,22.0,Male,Education,Reading
+LP001282,Yes,0,Graduate,22980,104.0,360.0,1.0,0,28.0,Male,Education,Reading
+LP001289,No,0,Graduate,43577,210.0,360.0,1.0,1,27.0,Male,Education,Reading
+LP001310,Yes,0,Graduate,46984,175.0,360.0,1.0,0,21.0,Male,Education,Reading
+LP001316,Yes,0,Graduate,34272,131.0,360.0,1.0,1,40.0,Male,Education,Reading
+LP001318,Yes,2,Graduate,19897,188.0,180.0,1.0,1,41.0,Male,Education,Reading
+LP001319,Yes,2,Not Graduate,47171,81.0,360.0,1.0,1,35.0,Male,Education,Reading
+LP001322,YES,0,Graduate,13994,122.0,360.0,1.0,1,40.0,Male,Education,Reading
+LP001325,YES,0,Not Graduate,16262,25.0,120.0,1.0,0,46.0,Male,Personal,Reading
+LP001326,YES,0,Graduate,16160,,360.0,,0,37.0,Male,Personal,Reading
+LP001327,YES,0,Graduate,41129,137.0,360.0,1.0,0,45.0,F,Personal,Reading
+LP001333,YES,0,Graduate,26470,50.0,360.0,1.0,1,52.0,Male,Personal,Reading
+LP001334,YES,0,Not Graduate,10357,115.0,180.0,1.0,0,35.0,Male,Personal,Reading
+LP001343,YES,0,Graduate,24473,131.0,360.0,1.0,1,32.0,Male,Personal,Reading
+LP001345,YES,2,Not Graduate,5075,133.0,180.0,1.0,1,45.0,Male,Personal,Reading
+LP001349,YES,0,Graduate,25152,151.0,360.0,1.0,0,41.0,Male,Personal,Reading
+LP001350,YES,,Graduate,47430,,360.0,1.0,0,48.0,Male,Personal,Reading
+LP001356,YES,0,Graduate,14267,,360.0,1.0,1,32.0,F,Personal,Reading
+LP001357,YES,,Graduate,36668,160.0,360.0,1.0,0,31.0,F,Personal,Reading
+LP001367,YES,1,Graduate,37924,100.0,360.0,1.0,1,31.0,F,Personal,Reading
+LP001369,YES,2,Graduate,12688,225.0,360.0,1.0,1,41.0,F,Personal,Reading
+LP001370,YES,0,Not Graduate,28406,120.0,360.0,1.0,0,55.0,F,Personal,Reading
+LP001379,YES,2,Graduate,30073,216.0,360.0,0.0,1,36.0,F,Personal,Reading
+LP001384,YES,3+,Not Graduate,38593,94.0,480.0,1.0,0,,F,Personal,Reading
+LP001385,YES,0,Graduate,15129,136.0,360.0,1.0,0,,F,Personal,Reading
+LP001387,YES,0,Graduate,7561,139.0,360.0,1.0,1,34.0,M,Personal,Reading
+LP001391,YES,0,Not Graduate,18750,152.0,,0.0,0,23.0,M,Personal,Reading
+LP001392,YES,1,Graduate,41708,,360.0,1.0,1,37.0,M,Personal,Reading
+LP001398,YES,0,Graduate,37785,118.0,360.0,1.0,0,33.0,M,Personal,Reading
+LP001401,YES,1,Graduate,12728,185.0,180.0,1.0,0,38.0,M,Personal,Reading
+LP001404,YES,0,Graduate,11323,154.0,360.0,1.0,0,38.0,M,Personal,Reading
+LP001405,YES,1,Graduate,26882,85.0,360.0,,0,53.0,M,Personal,Reading
+LP001421,YES,0,Graduate,34201,175.0,360.0,1.0,1,28.0,M,Personal,Reading
+LP001422,YES,0,Graduate,46335,259.0,360.0,1.0,1,55.0,M,Personal,Reading
+LP001426,YES,,Graduate,26008,180.0,360.0,1.0,1,51.0,Male,Personal,Reading
+LP001430,YES,0,Graduate,43549,44.0,360.0,1.0,0,33.0,Female,Personal,Reading
+LP001431,YES,0,Graduate,22107,137.0,360.0,0.0,0,25.0,Female,Personal,Reading
+LP001432,YES,2,Graduate,15732,81.0,360.0,1.0,0,41.0,Male,Personal,Reading
+LP001439,YES,0,Not Graduate,25504,194.0,360.0,1.0,0,55.0,Male,Personal,Reading
+LP001443,YES,0,Graduate,36684,93.0,360.0,,1,29.0,Female,Personal,Reading
+LP001448,YES,3+,Graduate,16953,370.0,360.0,1.0,0,33.0,,Personal,Reading
+LP001449,YES,0,Graduate,17069,,360.0,1.0,0,36.0,Male,Personal,Reading
+LP001451,YES,1,Graduate,17996,160.0,180.0,0.0,1,23.0,Male,Personal,Reading
+LP001465,YES,0,Graduate,19197,182.0,360.0,,0,32.0,Male,Personal,Reading
+LP001469,YES,0,Graduate,47138,650.0,480.0,,0,52.0,Male,Personal,Reading
+LP001473,YES,0,Graduate,13741,74.0,360.0,1.0,0,26.0,Male,Personal,Reading
+LP001478,YES,0,Graduate,21132,70.0,360.0,1.0,1,35.0,Male,Personal,Reading
+LP001482,YES,0,Graduate,36884,25.0,120.0,1.0,0,21.0,Male,Personal,Reading
+LP001487,YES,0,Graduate,26904,102.0,360.0,1.0,0,37.0,Male,Personal,Reading
+LP001488,YES,3+,Graduate,33954,290.0,360.0,1.0,1,45.0,Male,Personal,Reading
+LP001489,YES,0,Graduate,21750,84.0,360.0,1.0,1,39.0,Female,Personal,Reading
+LP001491,YES,2,Graduate,48231,88.0,360.0,1.0,0,38.0,Male,Personal,Reading
+LP001492,YES,0,Graduate,24160,242.0,360.0,0.0,0,40.0,Male,Personal,Reading
+LP001493,YES,2,Not Graduate,14074,129.0,360.0,1.0,0,28.0,Male,Personal,Reading
+LP001497,YES,2,Graduate,9782,185.0,360.0,1.0,0,39.0,Male,Personal,Reading
+LP001498,YES,0,Graduate,17568,168.0,360.0,1.0,1,25.0,Male,Personal,Reading
+LP001504,YES,0,Graduate,46725,175.0,180.0,1.0,1,36.0,Male,Personal,Reading
+LP001507,YES,0,Graduate,14346,122.0,360.0,1.0,0,51.0,Male,Personal,Reading
+LP001508,YES,2,Graduate,37843,187.0,180.0,1.0,1,29.0,Male,Personal,Reading
+LP001514,YES,0,Graduate,42188,100.0,360.0,1.0,1,51.0,Female,Personal,Reading
+LP001516,YES,2,Graduate,44459,70.0,360.0,1.0,1,45.0,Female,Personal,Reading
+LP001518,YES,1,Graduate,22719,30.0,360.0,1.0,1,22.0,Male,Personal,Reading
+LP001519,YES,0,Graduate,23903,225.0,360.0,1.0,1,54.0,Female,Personal,Reading
+LP001520,YES,0,Graduate,9518,125.0,360.0,1.0,1,,Male,Personal,Reading
+LP001528,YES,0,Graduate,18341,118.0,360.0,0.0,0,,Male,Personal,Reading
+LP001529,YES,0,Graduate,15560,152.0,360.0,1.0,0,31.0,Male,Personal,Watching Movie
+LP001531,YES,0,Graduate,22283,244.0,360.0,1.0,0,23.0,Male,Personal,Watching Movie
+LP001532,YES,2,Not Graduate,19957,113.0,360.0,1.0,1,49.0,Male,Personal,Watching Movie
+LP001535,YES,0,Graduate,41157,50.0,360.0,1.0,1,38.0,Male,Personal,Watching Movie
+LP001536,YES,3+,Graduate,23758,600.0,180.0,0.0,0,53.0,Male,Personal,Watching Movie
+LP001541,YES,1,Graduate,18798,160.0,360.0,,1,55.0,Male,Personal,Watching Movie
+LP001543,YES,1,Graduate,12012,187.0,360.0,1.0,0,51.0,Male,Personal,Watching Movie
+LP001546,YES,0,Graduate,47820,120.0,360.0,1.0,0,41.0,Male,Personal,Watching Movie
+LP001552,YES,0,Graduate,8386,255.0,360.0,1.0,0,25.0,Male,Personal,Watching Movie
+LP001560,YES,0,Not Graduate,22623,98.0,360.0,1.0,0,35.0,Male,Personal,Watching Movie
+LP001562,YES,0,Graduate,36192,275.0,360.0,1.0,0,47.0,Male,Personal,Watching Movie
+LP001565,YES,1,Graduate,15711,121.0,360.0,0.0,0,29.0,Male,Personal,Watching Movie
+LP001570,YES,2,Graduate,21818,158.0,360.0,1.0,0,36.0,Male,Personal,Watching Movie
+LP001572,YES,0,Graduate,22877,75.0,180.0,1.0,0,47.0,Male,Personal,Watching Movie
+LP001574,YES,0,Graduate,26311,182.0,,1.0,0,47.0,Male,Personal,Watching Movie
+LP001577,YES,0,Graduate,8991,112.0,360.0,1.0,1,43.0,Female,Personal,Watching Movie
+LP001578,YES,0,Graduate,11935,129.0,360.0,1.0,1,46.0,Male,Personal,Watching Movie
+LP001579,YES,0,Graduate,48570,63.0,480.0,0.0,0,53.0,Male,Personal,Watching Movie
+LP001580,YES,2,Graduate,42731,200.0,360.0,1.0,0,36.0,Male,Personal,Watching Movie
+LP001581,YES,0,Not Graduate,35704,95.0,360.0,1.0,0,31.0,Male,Personal,Watching Movie
+LP001585,YES,3+,Graduate,14379,700.0,300.0,1.0,0,27.0,,Personal,Watching Movie
+LP001586,YES,3+,Not Graduate,40779,81.0,180.0,1.0,1,28.0,Male,Personal,Watching Movie
+LP001594,YES,0,Graduate,21997,187.0,360.0,1.0,1,39.0,Male,Personal,Watching Movie
+LP001603,YES,0,Not Graduate,36926,87.0,360.0,1.0,0,53.0,Male,Personal,Watching Movie
+LP001606,YES,0,Graduate,23403,116.0,360.0,1.0,1,32.0,Male,Personal,Watching Movie
+LP001608,YES,2,Graduate,32017,101.0,360.0,1.0,1,50.0,Male,Wedding,Watching Movie
+LP001610,YES,3+,Graduate,13494,495.0,360.0,0.0,0,37.0,Male,Wedding,Watching Movie
+LP001616,YES,1,Graduate,17346,116.0,360.0,1.0,1,22.0,Male,Wedding,Watching Movie
+LP001630,YES,0,Not Graduate,37147,102.0,480.0,0.0,0,49.0,Male,Wedding,Watching Movie
+LP001633,Yes,1,Graduate,16918,180.0,360.0,0.0,0,22.0,Male,Wedding,Watching Movie
+LP001634,No,0,Graduate,20229,67.0,360.0,,1,42.0,Male,Wedding,Watching Movie
+LP001636,Yes,0,Graduate,16862,73.0,180.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001637,Yes,1,Graduate,23372,260.0,360.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP001639,Yes,0,Graduate,15542,108.0,360.0,1.0,1,50.0,Female,Wedding,Watching Movie
+LP001640,Yes,0,Graduate,45207,120.0,360.0,1.0,0,46.0,Male,Wedding,Watching Movie
+LP001641,YES,1,Graduate,7802,66.0,300.0,0.0,1,32.0,Male,Wedding,Watching Movie
+LP001643,YES,0,Graduate,17285,58.0,360.0,,0,53.0,Male,Wedding,Watching Movie
+LP001644,YES,0,Graduate,12949,168.0,360.0,1.0,0,21.0,,Wedding,Watching Movie
+LP001647,YES,0,Graduate,13326,188.0,180.0,1.0,1,54.0,Male,Wedding,Watching Movie
+LP001653,YES,0,Not Graduate,34588,48.0,360.0,1.0,0,27.0,Male,Wedding,Watching Movie
+LP001656,YES,0,Graduate,22213,164.0,360.0,1.0,0,23.0,Male,Wedding,Watching Movie
+LP001657,YES,0,Not Graduate,47449,160.0,360.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP001658,YES,0,Graduate,25141,76.0,360.0,1.0,1,29.0,Male,Wedding,Watching Movie
+LP001664,YES,0,Graduate,45605,120.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP001665,YES,1,Graduate,32680,170.0,360.0,1.0,1,49.0,Male,Wedding,Watching Movie
+LP001666,YES,0,Graduate,7634,187.0,360.0,1.0,0,31.0,Male,Wedding,Watching Movie
+LP001669,No,0,Not Graduate,11373,120.0,,1.0,0,29.0,Female,Wedding,Watching Movie
+LP001671,Yes,0,Graduate,32282,113.0,360.0,,0,53.0,Female,Wedding,Watching Movie
+LP001673,No,0,Graduate,43808,83.0,360.0,1.0,1,54.0,Male,Wedding,Watching Movie
+LP001674,Yes,1,Not Graduate,5072,90.0,360.0,1.0,0,46.0,Male,Wedding,Watching Movie
+LP001677,No,2,Graduate,47558,166.0,360.0,0.0,1,39.0,Male,Wedding,Watching Movie
+LP001682,NO,3+,Not Graduate,44038,,180.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001688,Yes,1,Not Graduate,33610,135.0,360.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP001691,Yes,2,Not Graduate,35733,124.0,360.0,1.0,0,47.0,Male,Wedding,Watching Movie
+LP001692,No,0,Not Graduate,14179,120.0,360.0,1.0,1,48.0,Female,Wedding,Watching Movie
+LP001693,No,0,Graduate,8574,80.0,360.0,1.0,1,47.0,Female,Wedding,Watching Movie
+LP001698,No,0,Not Graduate,45065,55.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP001699,No,0,Graduate,45353,59.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP001702,No,0,Graduate,38266,127.0,360.0,1.0,0,,Male,Wedding,Watching Movie
+LP001708,No,0,Graduate,26438,214.0,360.0,1.0,0,,Female,Wedding,Watching Movie
+LP001711,Yes,3+,Graduate,8338,128.0,360.0,0.0,0,51.0,Male,Wedding,Watching Movie
+LP001713,Yes,1,Graduate,39813,240.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001715,Yes,3+,Not Graduate,32761,130.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001716,Yes,0,Graduate,13277,137.0,360.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP001720,Yes,3+,Not Graduate,37123,100.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001722,Yes,0,Graduate,10784,135.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP001726,Yes,0,Graduate,25784,131.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP001732,Yes,2,Graduate,38152,72.0,360.0,0.0,1,37.0,Male,Wedding,Watching Movie
+LP001734,Yes,2,Graduate,35111,127.0,360.0,,0,50.0,Female,Wedding,Watching Movie
+LP001736,Yes,0,Graduate,23600,60.0,360.0,0.0,0,39.0,Male,Wedding,Watching Movie
+LP001743,Yes,2,Graduate,33226,116.0,360.0,1.0,0,28.0,Male,Wedding,Watching Movie
+LP001744,No,0,Graduate,14828,144.0,360.0,1.0,0,33.0,Male,Wedding,Watching Movie
+LP001749,YES,0,Graduate,45276,175.0,,1.0,0,35.0,Male,Wedding,Watching Movie
+LP001750,Yes,0,Graduate,39347,128.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001751,Yes,0,Graduate,20790,170.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP001754,Yes,,Not Graduate,39446,138.0,360.0,1.0,1,50.0,Male,Wedding,Watching Movie
+LP001758,Yes,2,Graduate,8782,210.0,360.0,1.0,1,21.0,Male,Wedding,Watching Movie
+LP001760,,,Graduate,49202,158.0,480.0,1.0,1,24.0,Male,Wedding,Watching Movie
+LP001761,No,0,Graduate,23868,200.0,360.0,1.0,1,33.0,Male,Wedding,Watching Movie
+LP001765,Yes,1,Graduate,30440,104.0,360.0,1.0,0,33.0,Male,Wedding,Watching Movie
+LP001768,Yes,0,Graduate,31175,42.0,180.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP001770,No,0,Not Graduate,49007,120.0,,1.0,1,37.0,Male,Wedding,Watching Movie
+LP001776,NO,0,Graduate,19526,280.0,360.0,1.0,1,47.0,Female,Wedding,Watching Movie
+LP001778,Yes,1,Graduate,17881,140.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP001784,Yes,1,Graduate,27610,170.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP001786,Yes,0,Graduate,47022,255.0,360.0,,0,34.0,Male,Wedding,Watching Movie
+LP001788,No,0,Graduate,33229,122.0,360.0,,1,29.0,Female,Wedding,Watching Movie
+LP001790,No,1,Graduate,33171,112.0,360.0,1.0,0,22.0,Female,Wedding,Watching Movie
+LP001792,Yes,1,Graduate,27499,96.0,360.0,1.0,0,30.0,Male,Wedding,Watching Movie
+LP001798,Yes,2,Graduate,21050,120.0,360.0,1.0,0,53.0,Male,Wedding,Watching Movie
+LP001800,Yes,1,Not Graduate,20973,140.0,180.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP001806,YES,0,Graduate,27113,155.0,60.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP001807,Yes,2,Graduate,18499,108.0,360.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP001811,Yes,0,Not Graduate,12373,123.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP001813,No,0,Graduate,8312,120.0,180.0,1.0,0,37.0,Male,Wedding,Watching Movie
+LP001814,Yes,2,Graduate,9477,112.0,360.0,1.0,1,43.0,Male,Wedding,Watching Movie
+LP001819,Yes,1,Not Graduate,35741,137.0,180.0,1.0,0,29.0,Male,Wedding,Watching Movie
+LP001824,Yes,1,Graduate,29765,123.0,480.0,1.0,1,22.0,Male,Wedding,Watching Movie
+LP001825,Yes,0,Graduate,35735,90.0,360.0,1.0,1,47.0,Male,Wedding,Watching Movie
+LP001835,Yes,0,Not Graduate,40950,201.0,360.0,0.0,1,23.0,Male,Wedding,Watching Movie
+LP001836,No,2,Graduate,11021,138.0,360.0,1.0,1,51.0,Female,Wedding,Watching Movie
+LP001841,No,0,Not Graduate,23264,104.0,360.0,1.0,1,37.0,Male,Wedding,Watching Movie
+LP001843,Yes,1,Not Graduate,27424,279.0,180.0,1.0,0,28.0,Male,Wedding,Watching Movie
+LP001844,No,0,Graduate,35480,192.0,360.0,0.0,0,30.0,Male,Wedding,Watching Movie
+LP001846,No,3+,Graduate,38247,255.0,360.0,1.0,1,47.0,Female,Wedding,Watching Movie
+LP001849,No,0,Not Graduate,15546,115.0,360.0,0.0,0,38.0,Male,Wedding,Watching Movie
+LP001854,Yes,3+,Graduate,23619,94.0,360.0,1.0,0,36.0,Male,Wedding,Watching Movie
+LP001859,Yes,0,Graduate,35213,304.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001864,Yes,3+,Not Graduate,33855,128.0,360.0,,0,24.0,Male,Wedding,Watching Movie
+LP001865,Yes,1,Graduate,37174,330.0,360.0,,1,36.0,Male,Wedding,Watching Movie
+LP001868,No,0,Graduate,27240,134.0,360.0,1.0,0,30.0,Male,Wedding,Watching Movie
+LP001870,No,1,Graduate,25592,155.0,36.0,1.0,1,30.0,Female,Wedding,Watching Movie
+LP001871,No,0,Graduate,27566,120.0,360.0,1.0,0,36.0,Female,Wedding,Watching Movie
+LP001872,No,0,Graduate,7534,128.0,360.0,1.0,1,47.0,Male,Wedding,Watching Movie
+LP001875,No,0,Graduate,23512,151.0,360.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP001877,Yes,2,Graduate,28765,150.0,360.0,1.0,0,47.0,Male,Wedding,Watching Movie
+LP001882,Yes,3+,Graduate,17945,160.0,360.0,0.0,0,39.0,Male,Wedding,Watching Movie
+LP001883,No,0,Graduate,41031,135.0,360.0,1.0,0,47.0,Female,Wedding,Watching Movie
+LP001884,No,1,Graduate,35032,90.0,360.0,1.0,1,45.0,Female,Wedding,Watching Movie
+LP001888,No,0,Graduate,23253,30.0,360.0,1.0,0,32.0,Female,Wedding,Watching Movie
+LP001891,Yes,0,Graduate,35590,136.0,360.0,1.0,1,31.0,Male,Wedding,Watching Movie
+LP001892,No,0,Graduate,18620,126.0,360.0,1.0,1,48.0,Male,Wedding,Watching Movie
+LP001894,Yes,0,Graduate,48442,150.0,360.0,1.0,1,52.0,Male,Wedding,Watching Movie
+LP001896,Yes,2,Graduate,46942,90.0,360.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP001900,Yes,1,Graduate,7255,115.0,360.0,1.0,0,25.0,Male,Wedding,Watching Movie
+LP001903,Yes,0,Graduate,9000,207.0,360.0,1.0,0,31.0,Male,Wedding,Watching Movie
+LP001904,Yes,0,Graduate,5001,80.0,360.0,1.0,0,50.0,Male,Wedding,Watching Movie
+LP001907,Yes,0,Graduate,15366,436.0,360.0,1.0,1,23.0,Male,Wedding,Watching Movie
+LP001908,Yes,0,Not Graduate,19400,124.0,360.0,,1,30.0,Female,Wedding,Watching Movie
+LP001910,No,1,Not Graduate,38788,158.0,360.0,0.0,1,34.0,Male,Wedding,Watching Movie
+LP001914,Yes,0,Graduate,49565,112.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP001915,Yes,2,Graduate,11498,78.0,180.0,1.0,1,30.0,Male,Wedding,Watching Movie
+LP001917,No,0,Graduate,42043,54.0,360.0,1.0,0,51.0,Female,Wedding,Watching Movie
+LP001922,Yes,0,Graduate,26779,,360.0,1.0,0,44.0,Male,Wedding,Watching Movie
+LP001924,No,0,Graduate,9730,89.0,360.0,1.0,1,36.0,Male,Wedding,Watching Movie
+LP001925,No,0,Graduate,24438,99.0,300.0,1.0,0,31.0,Female,Wedding,Watching Movie
+LP001926,Yes,0,Graduate,31605,120.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP001931,No,0,Graduate,12063,115.0,360.0,1.0,1,47.0,Female,Wedding,Watching Movie
+LP001935,No,0,Graduate,39930,187.0,360.0,1.0,1,34.0,Male,Wedding,Watching Movie
+LP001936,Yes,0,Graduate,34775,139.0,360.0,1.0,0,51.0,Male,Wedding,Watching Movie
+LP001938,Yes,2,Graduate,47275,127.0,360.0,0.0,0,24.0,Male,Wedding,Watching Movie
+LP001940,Yes,2,Graduate,24157,134.0,360.0,1.0,1,45.0,Male,Wedding,Watching Movie
+LP001945,No,,Graduate,42525,143.0,480.0,0.0,1,34.0,Female,Wedding,Watching Movie
+LP001947,Yes,0,Graduate,19042,172.0,360.0,1.0,1,25.0,Male,Wedding,Watching Movie
+LP001949,Yes,3+,Graduate,13185,110.0,360.0,1.0,0,28.0,Male,Wedding,Watching Movie
+LP001953,Yes,1,Graduate,12537,200.0,360.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP001954,Yes,1,Graduate,34074,135.0,360.0,1.0,1,29.0,Female,Wedding,Watching Movie
+LP001955,No,0,Graduate,28982,151.0,480.0,1.0,0,54.0,Female,Wedding,Watching Movie
+LP001963,Yes,1,Graduate,16182,113.0,360.0,1.0,0,42.0,Male,Wedding,Watching Movie
+LP001964,Yes,0,Not Graduate,40188,93.0,360.0,0.0,1,52.0,Male,Wedding,Watching Movie
+LP001972,Yes,,Not Graduate,16537,105.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP001974,No,0,Graduate,28077,132.0,360.0,1.0,1,39.0,Female,Wedding,Watching Movie
+LP001977,Yes,1,Graduate,22170,96.0,360.0,1.0,1,55.0,Male,Wedding,Watching Movie
+LP001978,No,0,Graduate,5381,140.0,360.0,1.0,1,37.0,Male,Wedding,Watching Movie
+LP001990,No,0,Not Graduate,16869,,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP001993,No,0,Graduate,7756,135.0,360.0,1.0,0,37.0,Female,Wedding,Watching Movie
+LP001994,No,0,Graduate,49829,104.0,360.0,0.0,1,41.0,Female,Wedding,Watching Movie
+LP001996,No,0,Graduate,16972,480.0,360.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP001998,Yes,2,Not Graduate,33168,185.0,360.0,,1,30.0,Male,Wedding,Watching Movie
+LP002002,No,0,Graduate,16926,84.0,360.0,1.0,0,37.0,Female,Wedding,Watching Movie
+LP002004,No,0,Not Graduate,37940,111.0,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002006,No,0,Graduate,31739,56.0,360.0,1.0,0,46.0,Female,Wedding,Watching Movie
+LP002008,Yes,2,Graduate,43929,144.0,84.0,,1,36.0,Male,Wedding,Watching Movie
+LP002024,Yes,0,Graduate,5959,159.0,360.0,1.0,1,41.0,,Wedding,Watching Movie
+LP002031,Yes,1,Not Graduate,44228,111.0,180.0,1.0,1,46.0,Male,Wedding,Watching Movie
+LP002035,Yes,2,Graduate,13104,120.0,360.0,1.0,1,55.0,Male,Wedding,Watching Movie
+LP002036,Yes,0,Graduate,6809,88.0,360.0,,1,21.0,Male,Wedding,Watching Movie
+LP002043,No,1,Graduate,48024,112.0,360.0,,0,34.0,Female,Wedding,Watching Movie
+LP002050,Yes,1,Graduate,26287,155.0,360.0,1.0,0,21.0,Male,Wedding,Watching Movie
+LP002051,Yes,0,Graduate,39033,115.0,360.0,1.0,0,31.0,Male,Wedding,Watching Movie
+LP002053,Yes,3+,Graduate,47448,124.0,360.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP002054,Yes,2,Not Graduate,17655,,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002055,No,0,Graduate,19093,132.0,360.0,,1,35.0,Female,Wedding,Watching Movie
+LP002065,Yes,3+,Graduate,41844,300.0,360.0,1.0,0,25.0,Male,Wedding,Watching Movie
+LP002067,Yes,1,Graduate,47307,376.0,360.0,0.0,1,53.0,Male,Wedding,Watching Movie
+LP002068,No,0,Graduate,32862,130.0,360.0,0.0,1,54.0,Male,Wedding,Watching Movie
+LP002082,Yes,0,Graduate,24930,184.0,360.0,1.0,0,24.0,Male,Wedding,Watching Movie
+LP002086,Yes,0,Graduate,36272,110.0,360.0,1.0,1,23.0,Female,Wedding,Watching Movie
+LP002087,No,0,Graduate,48645,67.0,360.0,1.0,1,35.0,Female,Wedding,Watching Movie
+LP002097,No,1,Graduate,31932,117.0,360.0,1.0,1,42.0,Male,Wedding,Watching Movie
+LP002098,No,0,Graduate,35942,98.0,360.0,1.0,1,37.0,Male,Wedding,Watching Movie
+LP002100,No,,Graduate,28917,71.0,360.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP002101,Yes,0,Graduate,13179,490.0,180.0,1.0,0,32.0,Male,Wedding,Watching Movie
+LP002103,Yes,1,Graduate,17705,182.0,180.0,1.0,1,35.0,,Wedding,Watching Movie
+LP002106,Yes,,Graduate,29937,70.0,,1.0,1,34.0,Male,Wedding,Watching Movie
+LP002110,Yes,1,Graduate,18855,160.0,360.0,1.0,0,30.0,Male,Wedding,Watching Movie
+LP002112,Yes,2,Graduate,14353,176.0,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002113,No,3+,Not Graduate,47286,,360.0,0.0,0,35.0,Female,Wedding,Watching Movie
+LP002114,No,0,Graduate,14326,71.0,360.0,1.0,0,27.0,Female,Wedding,Watching Movie
+LP002115,Yes,3+,Not Graduate,26594,173.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP002116,No,0,Graduate,26236,46.0,360.0,1.0,1,42.0,Female,Wedding,Watching Movie
+LP002119,Yes,1,Not Graduate,25836,158.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002126,Yes,3+,Not Graduate,15856,74.0,360.0,1.0,0,34.0,Male,Wedding,Watching Movie
+LP002128,Yes,2,Graduate,23693,125.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP002129,Yes,0,Graduate,5246,160.0,360.0,1.0,1,36.0,Male,Wedding,Watching Movie
+LP002130,Yes,,Not Graduate,41002,152.0,360.0,0.0,0,25.0,Male,Wedding,Watching Movie
+LP002131,Yes,2,Not Graduate,39770,126.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002137,Yes,0,Graduate,6979,259.0,360.0,,1,52.0,Male,Wedding,Watching Movie
+LP002138,Yes,0,Graduate,7970,187.0,360.0,1.0,1,44.0,Male,Wedding,Watching Movie
+LP002139,Yes,0,Graduate,39101,228.0,360.0,1.0,1,30.0,Male,Wedding,Watching Movie
+LP002140,No,0,Graduate,46666,308.0,360.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP002141,Yes,3+,Graduate,40417,95.0,360.0,1.0,1,33.0,Male,Wedding,Watching Movie
+LP002142,Yes,0,Graduate,25501,105.0,360.0,0.0,0,23.0,Female,Wedding,Watching Movie
+LP002143,Yes,0,Graduate,29556,130.0,360.0,1.0,0,45.0,Female,Wedding,Watching Movie
+LP002144,No,,Graduate,45145,116.0,180.0,1.0,0,33.0,Female,Wedding,Watching Movie
+LP002149,Yes,2,Graduate,7853,165.0,360.0,1.0,1,45.0,Male,Wedding,Watching Movie
+LP002151,Yes,1,Graduate,8872,67.0,360.0,1.0,1,24.0,Male,Wedding,Watching Movie
+LP002158,Yes,0,Not Graduate,46774,100.0,480.0,0.0,0,41.0,Male,Wedding,Watching Movie
+LP002160,Yes,3+,Graduate,29198,200.0,360.0,1.0,0,49.0,Male,Wedding,Watching Movie
+LP002161,No,1,Graduate,9201,81.0,360.0,1.0,1,33.0,Female,Wedding,Watching Movie
+LP002170,Yes,2,Graduate,29396,236.0,360.0,1.0,0,24.0,Male,Wedding,Watching Movie
+LP002175,Yes,0,Graduate,14113,130.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP002178,Yes,0,Graduate,42777,95.0,300.0,,0,30.0,Male,Wedding,Watching Movie
+LP002180,No,0,Graduate,17304,141.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP002181,No,0,Not Graduate,9950,133.0,360.0,1.0,0,38.0,Male,Wedding,Watching Movie
+LP002187,No,0,Graduate,31205,96.0,480.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002188,No,0,Graduate,19677,124.0,,0.0,0,22.0,Male,Wedding,Watching Movie
+LP002190,Yes,1,Graduate,18247,175.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002191,Yes,0,Graduate,24395,570.0,360.0,1.0,1,29.0,Male,Wedding,Watching Movie
+LP002194,No,0,Graduate,12548,55.0,360.0,1.0,0,32.0,Female,Wedding,Watching Movie
+LP002197,Yes,2,Graduate,42605,155.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002201,Yes,2,Graduate,24585,380.0,300.0,1.0,1,25.0,Male,Wedding,Watching Movie
+LP002205,No,1,Graduate,17815,111.0,180.0,0.0,0,43.0,Male,Wedding,Watching Movie
+LP002209,No,0,Graduate,41004,110.0,360.0,1.0,0,38.0,Female,Wedding,Watching Movie
+LP002211,Yes,0,Graduate,49060,120.0,180.0,1.0,1,22.0,Male,Wedding,Watching Movie
+LP002219,Yes,3+,Graduate,31050,130.0,360.0,1.0,1,55.0,Male,Wedding,Watching Movie
+LP002223,Yes,0,Graduate,34166,130.0,360.0,,0,45.0,Male,Wedding,Watching Movie
+LP002224,No,0,Graduate,48267,71.0,480.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP002225,Yes,2,Graduate,28096,130.0,360.0,1.0,1,49.0,Male,Wedding,Watching Movie
+LP002226,Yes,0,Graduate,21145,128.0,360.0,1.0,1,22.0,Male,Wedding,Watching Movie
+LP002229,No,0,Graduate,48291,296.0,360.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002231,No,0,Graduate,23969,156.0,360.0,1.0,0,28.0,Female,Wedding,Watching Movie
+LP002234,No,0,Graduate,45458,128.0,360.0,1.0,0,43.0,Male,Wedding,Watching Movie
+LP002236,Yes,2,Graduate,19940,100.0,360.0,1.0,1,44.0,Male,Wedding,Watching Movie
+LP002237,No,1,Graduate,23428,113.0,180.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002239,No,0,Not Graduate,14663,132.0,360.0,1.0,0,45.0,Male,Wedding,Watching Movie
+LP002243,Yes,0,Not Graduate,16312,,360.0,0.0,1,40.0,Male,Wedding,Watching Movie
+LP002244,Yes,0,Graduate,32059,136.0,360.0,1.0,0,24.0,Male,Wedding,Watching Movie
+LP002250,Yes,0,Graduate,12623,125.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP002255,No,3+,Graduate,32090,185.0,360.0,1.0,1,23.0,Male,Wedding,Watching Movie
+LP002262,Yes,3+,Graduate,27072,275.0,360.0,1.0,1,33.0,Male,Wedding,Watching Movie
+LP002263,Yes,0,Graduate,21374,120.0,360.0,,1,41.0,Male,Wedding,Watching Movie
+LP002265,Yes,2,Not Graduate,32342,113.0,180.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP002266,Yes,2,Graduate,7388,113.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP002272,Yes,2,Graduate,10986,135.0,360.0,,1,46.0,Male,Wedding,Watching Movie
+LP002277,No,0,Graduate,47518,71.0,360.0,0.0,0,44.0,Female,Wedding,Watching Movie
+LP002281,Yes,0,Graduate,41094,95.0,360.0,1.0,0,40.0,Male,Wedding,Watching Movie
+LP002284,No,0,Not Graduate,38154,109.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002287,No,0,Graduate,49442,103.0,360.0,0.0,1,30.0,Female,Wedding,Watching Movie
+LP002288,Yes,2,Not Graduate,24619,45.0,180.0,0.0,0,53.0,Male,Wedding,Watching Movie
+LP002296,No,0,Not Graduate,5503,65.0,300.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002297,No,0,Graduate,8800,103.0,360.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002300,No,0,Not Graduate,19178,53.0,360.0,1.0,1,39.0,Female,Wedding,Watching Movie
+LP002301,No,0,Graduate,12248,194.0,360.0,1.0,0,27.0,Female,Wedding,Watching Movie
+LP002305,No,0,Graduate,11349,115.0,360.0,1.0,1,26.0,Female,Wedding,Watching Movie
+LP002308,Yes,0,Not Graduate,33668,115.0,360.0,1.0,0,21.0,Male,Wedding,Watching Movie
+LP002314,No,0,Not Graduate,45487,66.0,360.0,1.0,0,40.0,Female,Wedding,Watching Movie
+LP002315,Yes,1,Graduate,7251,152.0,300.0,0.0,1,26.0,Male,Wedding,Watching Movie
+LP002317,Yes,3+,Graduate,20677,360.0,360.0,0.0,1,48.0,Male,Wedding,Watching Movie
+LP002318,No,1,Not Graduate,37041,62.0,360.0,1.0,1,49.0,Female,Wedding,Watching Movie
+LP002319,Yes,0,Graduate,14744,160.0,360.0,,0,36.0,Male,Wedding,Watching Movie
+LP002328,Yes,0,Not Graduate,17655,218.0,360.0,0.0,0,37.0,Male,Wedding,Watching Movie
+LP002332,Yes,0,Not Graduate,27078,110.0,360.0,1.0,1,45.0,Male,Wedding,Watching Movie
+LP002335,Yes,0,Not Graduate,33139,178.0,360.0,0.0,0,22.0,Female,Wedding,Watching Movie
+LP002337,No,0,Graduate,16174,60.0,360.0,1.0,1,31.0,Female,Wedding,Watching Movie
+LP002341,No,1,Graduate,23207,160.0,360.0,1.0,0,29.0,Female,Wedding,Watching Movie
+LP002342,Yes,2,Graduate,45277,239.0,360.0,1.0,0,37.0,Male,Wedding,Watching Movie
+LP002345,Yes,0,Graduate,18113,112.0,360.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP002347,Yes,0,Graduate,33823,138.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002348,Yes,0,Graduate,8872,138.0,360.0,1.0,1,37.0,Male,Wedding,Watching Movie
+LP002357,No,0,Not Graduate,17512,80.0,,0.0,0,45.0,Female,Wedding,Watching Movie
+LP002361,Yes,0,Graduate,47921,100.0,360.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP002362,Yes,1,Graduate,10261,110.0,,0.0,0,26.0,Male,Wedding,Watching Movie
+LP002364,Yes,0,Graduate,19526,96.0,360.0,1.0,1,54.0,Male,Wedding,Watching Movie
+LP002366,Yes,0,Graduate,23454,121.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002367,No,1,Not Graduate,46503,81.0,360.0,1.0,0,35.0,Female,Wedding,Watching Movie
+LP002368,Yes,2,Graduate,15501,133.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP002369,Yes,0,Graduate,29513,87.0,360.0,1.0,0,49.0,Male,Wedding,Watching Movie
+LP002370,No,0,Not Graduate,18995,60.0,180.0,1.0,1,51.0,Male,Wedding,Watching Movie
+LP002377,No,1,Graduate,49789,150.0,360.0,1.0,0,33.0,Female,Wedding,Watching Movie
+LP002379,No,0,Graduate,43750,105.0,360.0,0.0,0,38.0,Male,Wedding,Watching Movie
+LP002386,No,0,Graduate,45611,405.0,360.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002387,Yes,0,Graduate,39861,143.0,360.0,1.0,0,55.0,Male,Wedding,Watching Movie
+LP002390,No,0,Graduate,15206,100.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP002393,,,Graduate,43343,,240.0,1.0,0,53.0,Female,Wedding,Watching Movie
+LP002398,No,0,Graduate,5689,50.0,360.0,1.0,1,28.0,Male,Wedding,Watching Movie
+LP002401,Yes,0,Graduate,20297,,360.0,1.0,1,29.0,Male,Wedding,Watching Movie
+LP002403,No,0,Graduate,16190,187.0,360.0,0.0,1,48.0,Male,Wedding,Watching Movie
+LP002407,Yes,0,Not Graduate,12937,138.0,360.0,1.0,1,34.0,Female,Wedding,Watching Movie
+LP002408,No,0,Graduate,10405,187.0,360.0,1.0,1,47.0,Male,Wedding,Watching Movie
+LP002409,Yes,0,Graduate,33950,180.0,360.0,1.0,1,27.0,Male,Wedding,Watching Movie
+LP002418,No,3+,Not Graduate,44745,148.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP002422,No,1,Graduate,15735,152.0,360.0,1.0,1,26.0,Male,Wedding,Watching Movie
+LP002424,Yes,0,Graduate,46277,175.0,300.0,,1,44.0,Male,Wedding,Watching Movie
+LP002429,Yes,1,Graduate,8572,130.0,360.0,1.0,1,31.0,Male,Wedding,Watching Movie
+LP002434,Yes,2,Not Graduate,34968,110.0,360.0,1.0,0,30.0,Male,Wedding,Watching Movie
+LP002435,Yes,0,Graduate,41835,55.0,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002443,Yes,2,Graduate,30619,150.0,360.0,0.0,0,21.0,Male,Wedding,Watching Movie
+LP002444,No,1,Not Graduate,24086,190.0,360.0,,1,23.0,Male,Wedding,Watching Movie
+LP002446,Yes,2,Not Graduate,48217,125.0,360.0,0.0,1,55.0,Male,Wedding,Watching Movie
+LP002447,Yes,2,Not Graduate,17800,60.0,300.0,,1,54.0,Male,Wedding,Watching Movie
+LP002448,Yes,0,Graduate,8817,149.0,360.0,0.0,1,29.0,Male,Wedding,Watching Movie
+LP002449,Yes,0,Graduate,6737,90.0,180.0,0.0,0,25.0,Male,Wedding,Watching Movie
+LP002453,No,0,Graduate,10519,84.0,360.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002455,Yes,2,Graduate,9794,96.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP002459,Yes,0,Graduate,49607,118.0,360.0,1.0,0,25.0,Male,Wedding,Watching Movie
+LP002467,Yes,0,Graduate,22396,173.0,360.0,1.0,0,21.0,Male,Wedding,Watching Movie
+LP002472,No,2,Graduate,35651,136.0,360.0,1.0,1,53.0,Male,Wedding,Watching Movie
+LP002473,Yes,0,Graduate,38514,160.0,360.0,1.0,0,33.0,Male,Wedding,Watching Movie
+LP002478,Yes,0,Graduate,32581,160.0,360.0,,1,28.0,,Wedding,Watching Movie
+LP002484,Yes,3+,Graduate,43108,128.0,180.0,1.0,0,31.0,Male,Wedding,Watching Movie
+LP002487,Yes,0,Graduate,30777,153.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002489,No,1,Not Graduate,16443,132.0,360.0,1.0,0,44.0,Female,Wedding,Watching Movie
+LP002493,No,0,Graduate,40980,98.0,360.0,0.0,0,26.0,Male,Wedding,Watching Movie
+LP002494,No,0,Graduate,46738,140.0,360.0,1.0,0,37.0,Male,Wedding,Watching Movie
+LP002500,Yes,3+,Not Graduate,47478,70.0,180.0,0.0,1,36.0,Male,Wedding,Watching Movie
+LP002501,Yes,0,Graduate,38585,110.0,360.0,1.0,1,46.0,,Wedding,Watching Movie
+LP002502,Yes,2,Not Graduate,30105,98.0,360.0,1.0,0,34.0,Female,Wedding,Watching Movie
+LP002505,Yes,0,Graduate,10789,110.0,360.0,1.0,1,49.0,Male,Wedding,Watching Movie
+LP002515,Yes,1,Graduate,14304,162.0,360.0,1.0,0,38.0,Male,Wedding,Watching Movie
+LP002517,Yes,1,Not Graduate,37894,113.0,180.0,0.0,1,39.0,Male,Wedding,Watching Movie
+LP002519,Yes,3+,Graduate,22891,100.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002522,No,0,Graduate,25049,93.0,360.0,,0,23.0,Female,Wedding,Watching Movie
+LP002524,No,2,Graduate,7288,162.0,360.0,1.0,0,43.0,Male,Wedding,Watching Movie
+LP002527,Yes,2,Graduate,8852,150.0,360.0,1.0,1,38.0,Male,Wedding,Watching Movie
+LP002529,Yes,2,Graduate,41217,230.0,300.0,1.0,0,44.0,Male,Wedding,Watching Movie
+LP002530,Yes,2,Graduate,28015,132.0,360.0,0.0,1,37.0,,Wedding,Watching Movie
+LP002531,Yes,1,Graduate,31180,86.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002533,Yes,2,Graduate,36733,,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002534,No,0,Not Graduate,35198,154.0,360.0,1.0,0,43.0,Female,Wedding,Watching Movie
+LP002536,Yes,3+,Not Graduate,15466,113.0,360.0,1.0,0,28.0,Male,Wedding,Watching Movie
+LP002537,Yes,0,Graduate,39651,128.0,360.0,1.0,1,51.0,Male,Wedding,Watching Movie
+LP002541,Yes,0,Graduate,22963,234.0,360.0,1.0,1,39.0,Male,Wedding,Watching Movie
+LP002543,Yes,2,Graduate,38495,246.0,360.0,1.0,0,53.0,Male,Wedding,Watching Movie
+LP002544,Yes,1,Not Graduate,49467,131.0,360.0,1.0,0,23.0,Male,Wedding,Watching Movie
+LP002545,No,2,Graduate,21816,80.0,360.0,0.0,0,32.0,Male,Wedding,Watching Movie
+LP002547,Yes,1,Graduate,15546,500.0,360.0,1.0,1,55.0,Male,Wedding,Watching Movie
+LP002555,Yes,2,Graduate,13905,160.0,360.0,1.0,1,48.0,Male,Wedding,Watching Movie
+LP002556,No,0,Graduate,41676,75.0,360.0,1.0,1,50.0,Male,Wedding,Watching Movie
+LP002560,No,0,Not Graduate,6670,96.0,360.0,,1,28.0,Male,Wedding,Watching Movie
+LP002562,Yes,1,Not Graduate,40863,186.0,360.0,,0,42.0,Male,Wedding,Watching Movie
+LP002571,No,0,Not Graduate,11271,110.0,360.0,1.0,0,48.0,Male,Wedding,Watching Movie
+LP002582,No,0,Not Graduate,42393,225.0,360.0,1.0,1,36.0,Female,Wedding,Watching Movie
+LP002585,Yes,0,Graduate,27975,119.0,360.0,0.0,0,54.0,Male,Wedding,Watching Movie
+LP002586,Yes,1,Graduate,10478,105.0,84.0,1.0,0,42.0,Female,Wedding,Watching Movie
+LP002587,Yes,0,Not Graduate,27648,107.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002588,Yes,0,Graduate,9108,111.0,12.0,,0,30.0,Male,Wedding,Watching Movie
+LP002600,Yes,1,Graduate,41836,95.0,360.0,1.0,1,35.0,Male,Wedding,Watching Movie
+LP002602,No,0,Graduate,14154,209.0,360.0,0.0,0,33.0,Male,Wedding,Watching Movie
+LP002603,No,0,Graduate,21401,113.0,480.0,1.0,0,34.0,Female,Wedding,Watching Movie
+LP002606,No,0,Graduate,16666,100.0,360.0,1.0,1,37.0,Female,Wedding,Watching Movie
+LP002615,Yes,2,Graduate,20595,208.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002618,Yes,1,Not Graduate,21180,138.0,360.0,,1,48.0,Male,Wedding,Watching Movie
+LP002619,Yes,0,Not Graduate,49324,124.0,300.0,1.0,0,21.0,Male,Wedding,Watching Movie
+LP002622,Yes,2,Graduate,32094,243.0,360.0,1.0,1,23.0,Male,Wedding,Watching Movie
+LP002624,Yes,0,Graduate,6937,480.0,360.0,,1,31.0,Male,Wedding,Watching Movie
+LP002625,No,0,Graduate,28737,96.0,360.0,1.0,0,23.0,,Wedding,Watching Movie
+LP002626,Yes,0,Graduate,49571,188.0,360.0,1.0,1,41.0,Male,Wedding,Watching Movie
+LP002634,No,1,Graduate,6501,40.0,360.0,1.0,0,39.0,Female,Wedding,Watching Movie
+LP002637,No,0,Not Graduate,38378,100.0,360.0,1.0,0,51.0,Male,Wedding,Watching Movie
+LP002640,Yes,1,Graduate,18955,250.0,360.0,1.0,0,46.0,Male,Wedding,Watching Movie
+LP002643,Yes,2,Graduate,13225,148.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002648,Yes,0,Graduate,16364,70.0,180.0,1.0,1,48.0,Male,Wedding,Watching Movie
+LP002652,No,0,Graduate,13821,311.0,360.0,1.0,1,28.0,Male,Wedding,Watching Movie
+LP002659,Yes,3+,Graduate,37607,150.0,360.0,1.0,1,31.0,Male,Wedding,Watching Movie
+LP002670,Yes,2,Graduate,41532,113.0,480.0,1.0,1,50.0,Female,Wedding,Watching Movie
+LP002682,Yes,,Not Graduate,14548,123.0,360.0,0.0,1,40.0,Male,Wedding,Watching Movie
+LP002683,No,0,Graduate,33804,185.0,360.0,1.0,1,36.0,Male,Wedding,Watching Movie
+LP002684,No,0,Not Graduate,12244,95.0,360.0,1.0,0,27.0,Female,Wedding,Watching Movie
+LP002689,Yes,2,Not Graduate,45506,45.0,360.0,1.0,0,36.0,Male,Wedding,Watching Movie
+LP002690,No,0,Graduate,15523,55.0,360.0,1.0,1,22.0,Male,Wedding,Watching Movie
+LP002692,Yes,3+,Graduate,15329,100.0,360.0,1.0,1,23.0,Male,Wedding,Watching Movie
+LP002693,Yes,2,Graduate,6485,480.0,360.0,1.0,0,51.0,Male,Wedding,Watching Movie
+LP002697,No,0,Graduate,48107,,360.0,1.0,1,28.0,Male,Wedding,Watching Movie
+LP002699,Yes,2,Graduate,24402,400.0,360.0,1.0,1,51.0,Male,Wedding,Watching Movie
+LP002705,Yes,0,Graduate,19975,110.0,360.0,1.0,1,28.0,Male,Wedding,Watching Movie
+LP002706,Yes,1,Not Graduate,43516,161.0,360.0,0.0,0,32.0,Male,Wedding,Watching Movie
+LP002714,No,1,Not Graduate,42811,94.0,360.0,1.0,0,53.0,Male,Wedding,Watching Movie
+LP002716,No,0,Not Graduate,32730,130.0,360.0,1.0,1,51.0,Male,Wedding,Watching Movie
+LP002717,Yes,0,Graduate,17716,216.0,360.0,,0,27.0,Male,Wedding,Watching Movie
+LP002720,Yes,3+,Graduate,18786,100.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002723,No,2,Graduate,46596,110.0,360.0,0.0,0,55.0,Male,Wedding,Watching Movie
+LP002729,No,1,Graduate,18968,196.0,360.0,,0,31.0,Male,Wedding,Watching Movie
+LP002731,No,0,Not Graduate,21656,125.0,360.0,1.0,0,54.0,Female,Wedding,Watching Movie
+LP002732,No,0,Not Graduate,36353,126.0,360.0,1.0,0,27.0,Male,Wedding,Watching Movie
+LP002734,Yes,0,Graduate,16221,324.0,360.0,1.0,1,55.0,Male,Wedding,Watching Movie
+LP002738,No,2,Graduate,6823,107.0,360.0,1.0,1,49.0,Male,Wedding,Watching Movie
+LP002739,Yes,0,Not Graduate,40443,66.0,360.0,1.0,0,52.0,Male,Wedding,Watching Movie
+LP002740,Yes,3+,Graduate,9957,157.0,180.0,1.0,0,50.0,Male,Wedding,Watching Movie
+LP002741,Yes,1,Graduate,41740,140.0,180.0,1.0,1,22.0,Female,Wedding,Watching Movie
+LP002743,No,0,Graduate,49080,99.0,360.0,0.0,0,54.0,Female,Wedding,Watching Movie
+LP002753,No,1,Graduate,23765,95.0,360.0,1.0,1,51.0,Female,Wedding,Watching Movie
+LP002755,Yes,1,Not Graduate,48616,128.0,360.0,1.0,1,21.0,Male,Wedding,Watching Movie
+LP002757,Yes,0,Not Graduate,49619,102.0,360.0,,0,26.0,Female,Wedding,Watching Movie
+LP002767,Yes,0,Graduate,32692,155.0,360.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP002768,No,0,Not Graduate,31574,80.0,36.0,1.0,1,25.0,Male,Wedding,Watching Movie
+LP002772,No,0,Graduate,27000,145.0,360.0,1.0,1,34.0,Male,Wedding,Watching Movie
+LP002776,No,0,Graduate,26889,103.0,360.0,0.0,1,29.0,Female,Wedding,Watching Movie
+LP002777,Yes,0,Graduate,36674,110.0,360.0,1.0,1,48.0,Male,Wedding,Watching Movie
+LP002778,Yes,2,Graduate,26115,,360.0,0.0,0,25.0,Male,Wedding,Watching Movie
+LP002784,Yes,1,Not Graduate,12258,,360.0,1.0,1,23.0,Male,Wedding,Watching Movie
+LP002785,Yes,1,Graduate,16019,158.0,360.0,1.0,0,45.0,Male,Wedding,Watching Movie
+LP002788,Yes,0,Not Graduate,38782,181.0,360.0,0.0,0,33.0,Male,Wedding,Watching Movie
+LP002789,Yes,0,Graduate,47450,132.0,180.0,0.0,1,41.0,Male,Wedding,Watching Movie
+LP002792,Yes,1,Graduate,10009,26.0,360.0,1.0,0,50.0,Male,Wedding,Watching Movie
+LP002794,No,0,Graduate,25616,84.0,360.0,,1,44.0,Female,Wedding,Watching Movie
+LP002795,Yes,3+,Graduate,31655,260.0,360.0,1.0,1,38.0,Male,Wedding,Watching Movie
+LP002798,Yes,0,Graduate,18814,162.0,360.0,1.0,0,39.0,Male,Wedding,Watching Movie
+LP002804,Yes,0,Graduate,38298,182.0,360.0,1.0,1,30.0,Female,Wedding,Watching Movie
+LP002807,Yes,2,Not Graduate,34683,108.0,360.0,1.0,0,29.0,Male,Wedding,Watching Movie
+LP002813,Yes,1,Graduate,38800,600.0,360.0,1.0,0,37.0,Female,Wedding,Watching Movie
+LP002820,Yes,0,Graduate,41120,211.0,360.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002821,No,0,Not Graduate,15450,132.0,360.0,1.0,0,37.0,Male,Wedding,Watching Movie
+LP002832,Yes,2,Graduate,9873,258.0,360.0,0.0,1,24.0,Male,Wedding,Watching Movie
+LP002833,Yes,0,Not Graduate,10250,120.0,360.0,,1,50.0,Male,Wedding,Watching Movie
+LP002836,No,0,Graduate,6590,70.0,360.0,1.0,1,40.0,Male,Wedding,Watching Movie
+LP002837,Yes,3+,Graduate,44729,123.0,360.0,0.0,0,25.0,Male,Wedding,Watching Movie
+LP002840,No,0,Graduate,36356,9.0,360.0,1.0,1,23.0,Female,Wedding,Watching Movie
+LP002841,Yes,0,Graduate,43103,104.0,360.0,0.0,1,29.0,Male,Wedding,Watching Movie
+LP002842,Yes,1,Graduate,14449,186.0,360.0,1.0,1,43.0,Male,Wedding,Watching Movie
+LP002847,Yes,,Graduate,35888,165.0,360.0,0.0,1,36.0,Male,Wedding,Watching Movie
+LP002855,Yes,2,Graduate,48169,275.0,360.0,1.0,0,54.0,Male,Wedding,Watching Movie
+LP002862,Yes,2,Not Graduate,44927,187.0,480.0,1.0,1,28.0,Male,Wedding,Watching Movie
+LP002863,Yes,3+,Graduate,7369,150.0,360.0,1.0,1,50.0,Male,Wedding,Watching Movie
+LP002868,Yes,2,,38117,108.0,84.0,1.0,1,41.0,Male,Wedding,Watching Movie
+LP002872,Yes,0,Graduate,45672,136.0,360.0,0.0,1,33.0,,Wedding,Watching Movie
+LP002872,No,0,Graduate,32297,110.0,360.0,1.0,0,23.0,Male,Wedding,Watching Movie
+LP002872,Yes,1,,41090,107.0,360.0,1.0,0,47.0,Male,Wedding,Watching Movie
+LP002875,No,0,Graduate,47273,161.0,360.0,1.0,1,32.0,Male,Wedding,Watching Movie
+LP002876,Yes,2,Graduate,40728,205.0,360.0,1.0,0,33.0,Male,Wedding,Watching Movie
+LP002893,No,0,Graduate,21412,90.0,360.0,1.0,0,26.0,Male,Wedding,Watching Movie
+LP002894,Yes,0,Graduate,11492,36.0,360.0,1.0,0,51.0,Female,Wedding,Watching Movie
+LP002898,Yes,1,Graduate,23668,61.0,360.0,,1,36.0,Male,Wedding,Watching Movie
+LP002911,Yes,1,Graduate,12347,146.0,360.0,0.0,0,27.0,Male,Wedding,Watching Movie
+LP002912,Yes,1,Graduate,41241,172.0,84.0,1.0,0,35.0,Male,Wedding,Watching Movie
+LP002916,Yes,0,Graduate,35014,104.0,360.0,1.0,0,42.0,Male,Wedding,Watching Movie
+LP002917,No,0,Not Graduate,31823,70.0,360.0,1.0,1,27.0,Female,Wedding,Watching Movie
+LP002925,No,0,Graduate,33680,94.0,360.0,1.0,0,37.0,,Wedding,Watching Movie
+LP002926,Yes,2,Graduate,36644,106.0,360.0,0.0,0,36.0,Male,Travel,Watching Movie
+LP002928,Yes,0,Graduate,23655,56.0,180.0,1.0,1,35.0,Male,Travel,Watching Movie
+LP002931,Yes,2,Graduate,35446,205.0,240.0,1.0,1,23.0,Male,Travel,Watching Movie
+LP002933,No,3+,Graduate,33729,292.0,360.0,1.0,0,42.0,,Travel,Watching Movie
+LP002936,Yes,0,Graduate,45476,142.0,180.0,1.0,0,40.0,Male,Travel,Watching Movie
+LP002938,Yes,0,Graduate,49319,260.0,360.0,1.0,0,45.0,Male,Travel,Watching Movie
+LP002940,No,0,Not Graduate,30915,110.0,360.0,1.0,1,53.0,Male,Travel,Watching Movie
+LP002941,Yes,2,Not Graduate,8868,187.0,360.0,1.0,1,43.0,Male,Travel,Watching Movie
+LP002943,No,,Graduate,21043,88.0,360.0,0.0,1,39.0,Male,Travel,Watching Movie
+LP002945,Yes,0,Graduate,17752,180.0,360.0,1.0,1,52.0,Male,Travel,Watching Movie
+LP002948,Yes,2,Graduate,6175,192.0,360.0,1.0,0,28.0,Male,Wedding,Watching Movie
+LP002949,No,3+,Graduate,31750,350.0,180.0,,1,23.0,Female,Wedding,Watching Movie
+LP002950,Yes,0,Not Graduate,100000000,155.0,360.0,1.0,1,48.0,Male,Wedding,Watching Movie
+LP002953,Yes,3+,Graduate,29498,128.0,360.0,1.0,0,22.0,Male,Wedding,Watching Movie
+LP002958,No,0,Graduate,45462,172.0,360.0,1.0,0,43.0,Male,Wedding,Watching Movie
+LP002959,Yes,1,Graduate,5245,496.0,360.0,1.0,1,41.0,Female,Travel,Watching Movie
+LP002960,Yes,0,Not Graduate,19467,,180.0,1.0,1,26.0,Male,Travel,Watching Movie
+LP002961,Yes,1,Graduate,34469,173.0,360.0,1.0,1,50.0,Male,Travel,Watching Movie
+LP002964,Yes,2,Not Graduate,42322,157.0,360.0,1.0,1,23.0,Male,Travel,Watching Movie
+LP002974,Yes,0,Graduate,32854,108.0,360.0,1.0,1,45.0,Male,Travel,Watching Movie
+LP002978,No,0,Graduate,19515,71.0,360.0,1.0,1,55.0,Female,Travel,Watching Movie
+LP002979,Yes,3+,Graduate,30004,40.0,180.0,1.0,1,47.0,Male,Wedding,Watching Movie
+LP002983,Yes,1,Graduate,39788,253.0,360.0,1.0,1,27.0,Male,Wedding,Watching Movie
+LP002984,Yes,2,Graduate,37984,187.0,360.0,1.0,0,47.0,Male,Wedding,Watching Movie
+LP002990,No,0,Graduate,23743,133.0,360.0,0.0,1,42.0,Female,Travel,Watching Movie
